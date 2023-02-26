@@ -4,13 +4,13 @@ Deep Transfer Learning Techniques-Based Automated Classification and Detection o
 ###### Home page
 ![](/images/HomePage.jpg)
 ######Upload Page
-![](/images/Upload Fibronosis.jpg)
+![](/images/UploadFibronosis.jpg)
 ###### Prediction page
 ![](/Result/4.JPG)
 # Flow Diagram
-![](/images/Flow Digram FInal-Rv1.jpg)
+![](/images/FlowDigram.jpg)
 # Operational Diagram
-![](/images/Opratinal FlowDiagram.jpg)
+![](/images/OpratinalFlowDiagram.jpg)
 # Augmentation
 ![](/images/AugRVFinal.jpg)
 # Requirements
